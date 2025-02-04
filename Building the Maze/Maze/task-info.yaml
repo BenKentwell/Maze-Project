@@ -4,15 +4,16 @@ files:
     visible: true
     placeholders:
       - offset: 157
-        length: 23
+        length: 46
         placeholder_text: '''create ny by nx Cells'''
         initial_state:
           length: 23
           offset: 157
         initialized_from_dependency: false
         encrypted_possible_answer: 0CCLFCq+K6cNeuMx0Hf7bjTbdUK7rNyl4sb/h81q+dAr+8qDoHAl4XQC0iuG5YjwW/Dd9W9CHL06CMpmQdN9eg==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
+        student_answer: "[Cell(x, y) for y in range(ny)] for x in range"
     learner_created: false
   - name: __init__.py
     visible: false
@@ -30,5 +31,8 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeb6sbUHqOObkQgtVVBjNHSFa2TwpeEb8_P7nIXwgTxnvknQg/viewform?usp=pp_url&entry.2103429047=Building+the+Maze+/+Maze
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 04 Feb 2025 06:04:54 UTC"
+record: 7
