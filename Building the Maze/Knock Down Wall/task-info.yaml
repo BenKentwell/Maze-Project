@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: cell.py
+    visible: true
+    placeholders:
+      - offset: 365
+        length: 21
+        placeholder_text: '''get a proper value from the wall_pairs field'''
+        initial_state:
+          length: 46
+          offset: 365
+        initialized_from_dependency: false
+        encrypted_possible_answer: +wyn5STb1rZN5sbQw3XAXf6BNvoIi6qqdfloaemGQQc=
+        selected: true
+        status: Solved
+        student_answer: "Cell.wall_pairs[wall]"
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: output.py
+    visible: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeb6sbUHqOObkQgtVVBjNHSFa2TwpeEb8_P7nIXwgTxnvknQg/viewform?usp=pp_url&entry.2103429047=Building+the+Maze+/+Knock+Down+Wall
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 04 Feb 2025 02:33:39 UTC"
+record: 6
